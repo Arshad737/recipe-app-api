@@ -1,0 +1,3 @@
+# <= implies to install package above or equal to given first version and >= implies to not intall version which are lower than given 2nd verison
+Django>=2.1.3, <2.2.0
+djangorestframework<=3.12.4, >=3.10.0
