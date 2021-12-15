@@ -1,0 +1,15 @@
+startapp: https://docs.djangoproject.com/en/2.1/ref/django-admin/#startapp
+installed-apps: https://docs.djangoproject.com/en/2.1/ref/settings/#installed-apps
+substituting-a-custom-user-model: https://docs.djangoproject.com/en/2.1/topics/auth/customizing/#substituting-a-custom-user-model
+django.contrib.auth.get_user_model: https://docs.djangoproject.com/en/2.1/topics/auth/customizing/#django.contrib.auth.get_user_model
+django.contrib.auth.models.AbstractBaseUser.check_password: https://docs.djangoproject.com/en/2.1/topics/auth/customizing/#django.contrib.auth.models.AbstractBaseUser.check_password
+django.contrib.auth.models.AbstractBaseUser: https://docs.djangoproject.com/en/2.1/topics/auth/customizing/#django.contrib.auth.models.AbstractBaseUser
+django.contrib.auth.models.BaseUserManager: https://docs.djangoproject.com/en/2.1/topics/auth/customizing/#django.contrib.auth.models.BaseUserManager
+django.contrib.auth.models.PermissionsMixin: https://docs.djangoproject.com/en/2.1/topics/auth/customizing/#django.contrib.auth.models.PermissionsMixin
+django.contrib.auth.models.BaseUserManager.normalize_email: https://docs.djangoproject.com/en/2.1/topics/auth/customizing/#django.contrib.auth.models.BaseUserManager.normalize_email
+createsuperuser: https://docs.djangoproject.com/en/2.1/ref/django-admin/#createsuperuser
+admin: https://docs.djangoproject.com/en/2.1/ref/contrib/admin/
+Testing Tools: https://docs.djangoproject.com/en/2.2/topics/testing/tools/#overview-and-a-quick-example
+django.contrib.admin.ModelAdmin.fieldsets: https://docs.djangoproject.com/en/2.1/ref/contrib/admin/#django.contrib.admin.ModelAdmin.fieldsets
+
+
